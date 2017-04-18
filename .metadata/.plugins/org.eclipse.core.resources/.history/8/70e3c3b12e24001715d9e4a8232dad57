@@ -16,10 +16,6 @@ public class Application {
 		System.out.println("Hello" + " " + "Bob");
 		
 		System.out.println("My interger is: " + myInt);
-		
-		double myDouble = 7.8;
-		
-		System.out.println("My number is: " + myDouble +".");
 	
 	}
 }
