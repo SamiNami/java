@@ -1,0 +1,15 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		int myNumber = 42;
+		
+		short myShort = 1337;
+		
+		
+		
+		System.out.println(myNumber);
+		System.out.println(myShort);
+	}
+
+}

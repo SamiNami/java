@@ -1,0 +1,16 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		int myNumber = 42;
+		
+		short myShort = 1337;
+		long myLong = 9001;
+		
+		
+		System.out.println(myNumber);
+		System.out.println(myShort);
+		System.out.println(myLong);
+	}
+
+}

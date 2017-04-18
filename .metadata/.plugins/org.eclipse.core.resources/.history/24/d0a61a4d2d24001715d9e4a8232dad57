@@ -12,8 +12,6 @@ public class Application {
 		char myChar = 'y';
 		boolean myBoolean = true;
 		
-		byte myByte = 127;
-		
 		System.out.println(myNumber);
 		System.out.println(myShort);
 		System.out.println(myLong);
@@ -21,7 +19,6 @@ public class Application {
 		System.out.println(myFloat);
 		System.out.println(myChar);
 		System.out.println(myBoolean);
-		System.out.println(myByte);
 	}
 
 }
