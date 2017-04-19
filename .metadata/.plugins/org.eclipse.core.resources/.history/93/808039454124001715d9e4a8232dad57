@@ -1,8 +1,0 @@
-package tutorial8;
-
-public class App {
-	public static void main(String[] args) {
-		
-		Scanner scanner = new Scanner(Systerm.in);
-	}
-}
