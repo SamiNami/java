@@ -1,0 +1,24 @@
+
+class Person{
+	
+	// Instance variables (data or "state")
+	String name;
+	int age;
+	
+	// Classes can contain
+	
+	// 1. Data
+	// Subroutines (methods)
+}
+
+
+
+public class App {
+	
+	// this is the main method
+	public static void main(String[] args) {
+		
+		Person person1 = new Person();
+		
+	}
+}
