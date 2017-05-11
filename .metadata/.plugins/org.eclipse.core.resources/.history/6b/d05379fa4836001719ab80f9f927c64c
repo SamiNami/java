@@ -1,0 +1,34 @@
+import java.util.Collections;
+import java.util.Arrays;
+
+
+public class Testing {
+
+	
+	public static void main(String[] args) {
+		
+		//  Write a function that takes two words as an argument and returns true if they are anagrams
+		//(contain the exact same letters) and false otherwise.
+		boolean check = checkIfAnagram("mamma","aaammm");
+		System.out.println(check);
+
+	}
+
+	
+	
+	private static boolean checkIfAnagram(String first,String second){
+		
+		String [] firstSplit = first.split("");
+		String [] secondSplit = second.split("");
+		
+		Arrays.sort(firstSplit);
+		Arrays.sort(secondSplit);
+		
+		first = String.join("",firstSplit);
+		second = String.join("",secondSplit);
+		
+		
+		return first.equals(second);
+	}
+	
+}

@@ -3,5 +3,41 @@
     "coordinate": "jre:jre:zip:call:1.0.0",
     "location": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\rt.jar",
     "status": "RESOLVED"
+  },
+  "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial13 Classes and Objects\\src": {
+    "location": "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial13 Classes and Objects\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\John\\Desktop\\code\\Java\\Tutorial13 Classes and Objects\\src\u0027. Skipped."
+  },
+  "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial14 Methods\\src": {
+    "location": "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial14 Methods\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\John\\Desktop\\code\\Java\\Tutorial14 Methods\\src\u0027. Skipped."
+  },
+  "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial15 Getters and Return values\\src": {
+    "location": "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial15 Getters and Return values\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\John\\Desktop\\code\\Java\\Tutorial15 Getters and Return values\\src\u0027. Skipped."
+  },
+  "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial16 Method Parameters\\src": {
+    "location": "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial16 Method Parameters\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\John\\Desktop\\code\\Java\\Tutorial16 Method Parameters\\src\u0027. Skipped."
+  },
+  "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial17 Setters and this, Mutaors\\src": {
+    "location": "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial17 Setters and this, Mutaors\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\John\\Desktop\\code\\Java\\Tutorial17 Setters and this, Mutaors\\src\u0027. Skipped."
+  },
+  "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial19 Static (and Final)\\src": {
+    "location": "C:\\Users\\John\\Desktop\\code\\Java\\Tutorial19 Static (and Final)\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\John\\Desktop\\code\\Java\\Tutorial19 Static (and Final)\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre1.8.0_131\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_131\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre1.8.0_131\\lib\\rt.jar\u0027. Skipped."
   }
 }
